@@ -1,0 +1,43 @@
+*
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans' , sans-serif;
+}
+
+.wrapper{
+    width:110px;
+    margin: auto;
+    position: relative;
+}
+
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.kolom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
+.deskripsi{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans-ms';
+    color:hsl(139, 74%, 46%);
+    
+}
+
+h2{
+    font-family: 'comic sans-ms';
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color:#1c2c1c;
+    width: 100%;
+    line-height: 50px;
+}
